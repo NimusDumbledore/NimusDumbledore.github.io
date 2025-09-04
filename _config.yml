@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Nima Dolatabadi's Webpage"
+title                    : "Nima's Homepage"
 title_separator          : "-"
 name                     : &name "Nima Dolatabadi"
 description              : &description "personal description"
