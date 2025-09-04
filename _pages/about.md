@@ -33,6 +33,9 @@ In Summer 2023, I was a research intern at [Hong Kong University of Science and 
    *What is the Chance of Being so Unfair?*  
    In **Companion Proceedings of the ACM on Web Conference 2025**, pp. 957–960, 2025.
 
+## Extra Curricular Activities
+I enjoy teaching mathematics to high school students, in particular those who are participating in mathematical olympiad competitions. I've been teaching Number Theory and Combinatorics to Iranian IMO participants since 2020. I also proposed several problems that appeared in the Iranian National Mathematical Olympiad contests.
+
 
 ## Links
 - [Curriculum Vitae (PDF)](/files/Dolatabadi_CV.pdf)  
