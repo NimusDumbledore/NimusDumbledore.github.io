@@ -35,7 +35,7 @@ In Summer 2023, I was a research intern at [Hong Kong University of Science and 
 
 
 ## Links
-- [Curriculum Vitae (PDF)](/files/cv.pdf)  
+- [Curriculum Vitae (PDF)](/files/Dolatabadi_CV.pdf)  
 - [Google Scholar](https://scholar.google.com/citations?user=f_Nxm1QAAAAJ&hl=en)
 
 
