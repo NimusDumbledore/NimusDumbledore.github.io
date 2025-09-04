@@ -12,7 +12,7 @@ I am a Ph.D. candidate at the University of Waterloo in the [Algorithms and Comp
 I am broadly interested in theoretical computer science with a focus on questions at the intersection of algorithms and complexity theory. I also like to think on extremal and algebraic combinatorics problems.
 
 
-## Internships
+## Internship
 In Summer 2023, I was a research intern at [Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), where I worked under the supervision of [Mordecai Golin](https://cse.hkust.edu.hk/faculty/golin/). We published two papers in which we solved an optimization problem about minimum-cost Markov chains, which had applications in lossless coding.
 
 ## Publications
