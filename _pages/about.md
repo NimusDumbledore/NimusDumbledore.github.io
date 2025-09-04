@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "About"
-permalink: /about/
+permalink: /
+title: "About Me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a Ph.D. candidate at the University of Waterloo in the [Algorithms and Complexity group](https://algcomp.uwaterloo.ca/), where I am fortunate to be advised by [Sepehr Assadi](https://sepehr.assadi.info/) and [Rafael Oliveria](https://cs.uwaterloo.ca/~r5olivei/). I got my Bachelor's Degree in Computer Engineering with a minor in Mathematics from Sharif University of Technology.
