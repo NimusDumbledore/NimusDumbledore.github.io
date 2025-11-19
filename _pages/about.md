@@ -38,7 +38,7 @@ I enjoy teaching mathematics to high school students, in particular those who ar
 
 
 ## Links
-- [Curriculum Vitae (PDF)](/files/Dolatabadi_CV.pdf)  
+- [Curriculum Vitae (PDF)](/files/NimaDolatabadi_CV.pdf)  
 - [Google Scholar](https://scholar.google.com/citations?user=f_Nxm1QAAAAJ&hl=en)
 
 
