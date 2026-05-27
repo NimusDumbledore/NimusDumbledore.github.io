@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant in the [School of Computing](https://algcomp.uwaterloo.ca/](https://www.comp.nus.edu.sg/) of National University of Singapore, where I am fortunate to be hosted by [Yi-Jun Chang](https://sepehr.assadi.info/](https://sites.google.com/a/umich.edu/yi-jun-chang/). I got my Bachelor's Degree in Computer Engineering with a minor in Mathematics from Sharif University of Technology. My alternative name is Seyed Reza Hosseini Dolatabadi.
+I am a Research Assistant in the [School of Computing](https://www.comp.nus.edu.sg/) of National University of Singapore, where I am fortunate to be hosted by [Yi-Jun Chang](https://sites.google.com/a/umich.edu/yi-jun-chang/). I got my Bachelor's Degree in Computer Engineering with a minor in Mathematics from Sharif University of Technology. My alternative name is Seyed Reza Hosseini Dolatabadi.
 
 I am broadly interested in theoretical computer science with a focus on questions at the intersection of algorithms and complexity theory. I also like to think on extremal and algebraic combinatorics problems.
 
